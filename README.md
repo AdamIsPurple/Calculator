@@ -1,2 +1,3 @@
-#Calculator
-Just a calculator in py
+# Calculator
+Just A calculator in py
+
